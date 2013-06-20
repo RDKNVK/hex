@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Comfortaa_Bold'; /*a name to be used later*/
+    src: url('Comfortaa_Bold.ttf'); /*URL to font*/
+}
+body {
+   background-color: #DDD;
+}
+#message {
+	font-family: Comfortaa_Bold, Tahoma;
+	font-size: 30px;
+	text-align: center;
+	background-color: #DDD; 
+	padding: 5px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#btn-create {
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 12px 24px;
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 23px;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+#btn-create:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+#btn-create:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }

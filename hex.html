@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<script src="jquery-1.9.1.min.js"></script>
+	<script src="hex.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+<body onload="init()">
+	
+	<div id="svg-container">
+		<embed name="E" id="E" src="gamefield-13-repaired.svg" type="image/svg+xml">
+	</div>
+
+	<br />
+
+	<div id="message"> &nbsp; </div>
+	<center><button id="btn-create" onclick="server.create()">create game</button></center>
+
+<!--
+	<script type="text/javascript" src="controls.js"></script>
+	<script type="text/javascript" src="hex.js"></script>
+-->
+
+<script>
+$(document).ready(function() {
+	var addr = $(location).attr('href');
+	var reParam = /\?(g)=([A-Za-z0-9]*)/;
+	var game = reParam.exec(addr);
+
+	
+
+	if (game){
+		$('#btn-create').hide(0);
+		server.game = game[2];
+	}
+	else 
+		$('#svg-container').hide(0);
+	//$('#svg-container').show("slow");
+});
+</script>
+
+</body>
+</html>
