@@ -33,7 +33,7 @@ class Check {
 		$y = substr($field, 1);
 		$y_num = (int) $y;
 	
-		$res = array();
+		$res = [];
 	
 		if ($x_num - 1 >= 0 && $y_num - 1 > 0)
 			$res[] = $this->ALPHA[$x_num - 1] . strval($y_num - 1);

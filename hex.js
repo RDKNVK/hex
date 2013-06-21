@@ -1,7 +1,6 @@
 "use strict";
 
-
-var SVGDoc;
+var SVGDoc, svginside;
 var mouseOut = function () {};
 var mouseOver = function () {};
 
@@ -218,16 +217,31 @@ function setFieldColor(fieldId, color) {
 
 function init() {
     SVGDoc = document.getElementById("E").getSVGDocument();
+    svginside = SVGDoc.getElementById('svg6176');
+    //svginside.setAttribute('viewBox', '0 0 985 595');
+    var addr = $(location).attr('href');
 
-    var url = window.location.href;
-    //var params = url.split('?');
-    var gamenumber = /g=(.*)/.exec(url);
-    if (gamenumber !== null) {
-        server.game = gamenumber[1];
-    }
-
-    server.DOMAIN = /(.*\/).*?\..*?/.exec(url)[1];
+    server.DOMAIN = /(.*\/).*?\..*?/.exec(addr)[1];
     timer.start();
+
+    
+    $(window).resize(function  () {
+        svginside.setAttribute('width', $(window).width());
+    });
+
+    // old doc.ready
+    
+    var reParam = /\?(g)=([A-Za-z0-9]*)/;
+    var game = reParam.exec(addr);
+
+    if (game){
+        $('#btn-create').hide(0);
+        $('#intro').hide(0);
+        server.game = game[2];
+    }
+    else {
+        $('#svg-container').hide(0);
+    }
 }
 
 function click(evt) {

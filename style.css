@@ -2,20 +2,48 @@
     font-family: 'Comfortaa_Bold'; /*a name to be used later*/
     src: url('Comfortaa_Bold.ttf'); /*URL to font*/
 }
+
 body {
    background-color: #DDD;
+   font-family: Georgia;
+   font-size: 20px;
 }
+
+#intro {
+   width: 500px;
+   height: 500px;
+   background-color: white;
+   border-radius: 5px;
+   border: 2px solid;
+   margin: auto;
+}
+
+p {
+   margin: 10px;
+}
+#rules {
+   margin: 10px;
+}
+
 #message {
 	font-family: Comfortaa_Bold, Tahoma;
 	font-size: 30px;
 	text-align: center;
+
 	background-color: #DDD; 
 	padding: 5px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
 
+
+
 #btn-create {
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   text-align: center;
+
    border-top: 1px solid #96d1f8;
    background: #65a9d7;
    background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));

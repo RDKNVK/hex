@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="976.16754"
+   height="587.29926"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2989">
+   .rect {
+
+         stroke: black;
+
+         stroke-width: 0.15;
+         stroke-linejoin: &quot;bevel&quot;;
+         stroke-linecap: &quot;butt&quot;;
+         fill: none;
+
+
+
+       }
+  </style>
+    <style
+       type="text/css"
+       id="style2989-7">
+   .rect {
+
+         stroke: black;
+
+         stroke-width: 0.15;
+         stroke-linejoin: &quot;bevel&quot;;
+         stroke-linecap: &quot;butt&quot;;
+         fill: none;
+
+
+
+       }
+  </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="539.12769"
+     inkscape:cy="183.69288"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1016"
+     inkscape:window-height="1097"
+     inkscape:window-x="1024"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(146.65222,-128.37737)">
+    <g
+       transform="matrix(0.99822756,0,0,0.99822756,-168.68515,83.914046)"
+       inkscape:label="Layer 1"
+       id="layer1-1">
+      <g
+         inkscape:label="color"
+         inkscape:groupmode="layer"
+         id="layer2">
+        <g
+           transform="matrix(1.0017756,0,0,1.0017756,-19.541801,-45.38092)"
+           inkscape:label="Layer 1"
+           id="layer1-4">
+          <g
+             inkscape:label="color"
+             inkscape:groupmode="layer"
+             id="layer2-0">
+            <polygon
+               transform="matrix(12.915663,22.370584,-22.370584,12.915663,935.34391,145.9229)"
+               style="fill:#5555ff;stroke:#000000;stroke-width:0.15000001"
+               points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+               id="m1-9-8"
+               class="field" />
+            <polygon
+               transform="matrix(12.915663,22.370584,-22.370584,12.915663,935.45156,595.08191)"
+               style="fill:#ff5555;stroke:#000000;stroke-width:0.15000001"
+               points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+               id="m1-9-3"
+               class="field" />
+            <polygon
+               transform="matrix(12.915663,22.370584,-22.370584,12.915663,168.17598,145.92139)"
+               style="fill:#ff5555;stroke:#000000;stroke-width:0.15000001"
+               points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+               id="m1-9-7"
+               class="field" />
+            <polygon
+               transform="matrix(12.915663,22.370584,-22.370584,12.915663,168.15053,594.89741)"
+               style="fill:#5555ff;stroke:#000000;stroke-width:0.15000001"
+               points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+               id="m1-9-83"
+               class="field" />
+          </g>
+          <g
+             transform="matrix(1.4267775,0.8237504,-0.8237504,1.4267775,304.87985,-655.01005)"
+             inkscape:label="Layer 1"
+             id="layer1-3">
+            <g
+               y="500"
+               x="400"
+               transform="matrix(43.88704,0,0,43.88704,294.74572,330.618)"
+               id="gamefield">
+              <polygon
+                 transform="matrix(0.35726033,0,0,0.35726033,1.275714,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726033,0,0,0.35726033,1.886258,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.505051,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.115595,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.734388,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.3449321,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.9637252,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.5742693,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.1930623,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.8036064,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.4223994,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,8.0329433,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,8.6517365,-0.22236109)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="a13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.97456652,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.5851105,0.31352941)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2039034,0.31352941)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8144474,0.31352941)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.4332406,0.31352941)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.0437846,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.6625778,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.2731218,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.8919147,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.502459,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.1212519,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.7317957,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,8.3505891,0.31352941)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="b13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.67341903,0.84941989)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.283963,0.84941989)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.902756,0.84941989)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5133,0.84941989)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.1320931,0.84941989)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.7426372,0.84941989)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.3614303,0.84941989)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.9719743,0.84941989)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.5907677,0.84941989)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.2013117,0.84941989)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.8201047,0.84941989)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.4306487,0.84941989)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,8.0494417,0.84941989)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="c13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.37227163,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.98281563,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.6016085,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2121525,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8309457,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.4414897,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.0602829,1.3853104)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.6708269,1.3853104)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.2896198,1.3853104)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.9001637,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.5189567,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.1295007,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.7482937,1.3853104)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="d13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.07112417,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.68166814,1.9212009)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.3004611,1.9212009)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.9110051,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5297982,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.1403423,1.9212009)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.7591354,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.3696794,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.9884724,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.5990166,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.2178096,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.8283533,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.4471467,1.9212009)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="e13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.23002323,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.38052077,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.99931364,2.4570914)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.6098576,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2286508,2.4570914)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8391948,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.457988,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.068532,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.687325,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.2978692,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.9166621,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.5272059,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,7.1459993,2.4570914)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="f13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.53117078,2.9929819)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.07937327,2.9929819)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.69816624,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.3087102,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.9275033,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5380474,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.1568405,2.9929819)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.7673843,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.3861779,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.9967218,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.6155149,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.2260589,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.8448518,2.9929819)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="g13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.83231818,3.5288724)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.22177413,3.5288724)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.39701877,3.5288724)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.0075627,3.5288724)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.6263559,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2368999,3.5288724)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8556931,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.4662371,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.08503,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.6955739,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.3143668,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.9249108,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.543704,3.5288724)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="h13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.1334657,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.52292167,4.0647629)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.09587123,4.0647629)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.70641533,4.0647629)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.3252084,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.9357524,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5545456,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.1650896,4.0647629)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.7838825,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.3944268,4.0647629)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.0132197,4.0647629)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.6237635,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,6.2425569,4.0647629)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="i13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.4346132,4.6006534)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.82406907,4.6006534)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.20527617,4.6006534)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.40526783,4.6006534)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.024061,4.6006534)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.634605,4.6006534)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2533981,4.6006534)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8639421,4.6006534)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.4827351,4.6006534)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.0932793,4.6006534)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.7120723,4.6006534)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.3226161,4.6006534)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.9414095,4.6006534)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="j13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.7357606,5.1365439)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.1252166,5.1365439)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.50642367,5.1365439)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.10412043,5.1365439)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.72291353,5.1365439)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.3334575,5.1365439)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.9522507,5.1365439)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5627945,5.1365439)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.1815881,5.1365439)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.7921319,5.1365439)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.4109251,5.1365439)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.0214691,5.1365439)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.640262,5.1365439)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="k13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-2.0369081,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.426364,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.80757107,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.19702707,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.42176613,5.6724344)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.0323101,5.6724344)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.6511033,5.6724344)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.2616473,5.6724344)"
+                 style="fill:#ff6666;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.8804402,5.6724344)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.490984,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.1097769,5.6724344)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.720321,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.3391141,5.6724344)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="l13"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-2.3380555,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m1"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.7275115,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m2"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-1.1087185,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m3"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,-0.49817447,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m4"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.12061843,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m5"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,0.73116273,6.2083249)"
+                 style="fill:#6666ff;stroke:#000000;stroke-width:0.15000001"
+                 points="-0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 0,2 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m6"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.3499558,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m7"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,1.9604996,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m8"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,2.5792927,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m9"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.189837,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m10"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,3.8086299,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,0.5 0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m11"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,4.4191735,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0.8660254,1.5 0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m12"
+                 class="field" />
+              <polygon
+                 transform="matrix(0.35726032,0,0,0.35726032,5.0379671,6.2083249)"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:0.15000001"
+                 points="0,2 -0.8660254,1.5 -0.8660254,0.5 0,0 0.8660254,0.5 0.8660254,1.5 "
+                 onmouseover="top.mouseOver(evt)"
+                 onmouseout="top.mouseOut(evt)"
+                 onclick="top.click(evt)"
+                 id="m13"
+                 class="field" />
+            </g>
+          </g>
+        </g>
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-9"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,-22.891839,-764.58558)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-4"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,-22.891832,-719.76496)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-8"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,-22.374398,-674.64561)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-82"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,15.92395,-652.53404)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-45"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,16.441403,-607.41468)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-1"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,-21.856938,-584.70562)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-7"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,-21.856936,-539.88501)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-11"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,16.958863,-517.4747)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-5"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,55.257204,-495.36314)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-2"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,93.555528,-518.0722)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-76"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,132.37135,-495.66188)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-14"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,170.66968,-473.55033)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-23"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,208.96802,-496.25938)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-22"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,247.26636,-518.96844)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-16"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,286.08214,-496.55814)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-85"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,286.08213,-451.73753)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#000000;stroke:none"
+           id="path3347-761"
+           sodipodi:cx="302.03561"
+           sodipodi:cy="968.01447"
+           sodipodi:rx="9.0913725"
+           sodipodi:ry="9.0913725"
+           d="m 311.12699,968.01447 c 0,5.02102 -4.07035,9.09137 -9.09138,9.09137 -5.02102,0 -9.09137,-4.07035 -9.09137,-9.09137 0,-5.02103 4.07035,-9.09138 9.09137,-9.09138 5.02103,0 9.09138,4.07035 9.09138,9.09138 z"
+           transform="matrix(1.0017756,0,0,1.0017756,324.89794,-429.32721)" />
+      </g>
+    </g>
+  </g>
+</svg>
