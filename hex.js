@@ -217,6 +217,9 @@ function setFieldColor(fieldId, color) {
 
 function init() {
     SVGDoc = document.getElementById("E").getSVGDocument();
+    if (SVGDoc === null) {
+        location.reload();
+    }
     svginside = SVGDoc.getElementById('svg6176');
     //svginside.setAttribute('viewBox', '0 0 985 595');
     var addr = $(location).attr('href');
@@ -226,7 +229,8 @@ function init() {
 
     
     $(window).resize(function  () {
-        svginside.setAttribute('width', $(window).width());
+        svginside.setAttribute('width', $(window).width()-20);
+        svginside.setAttribute('height', $(window).height()-200);
     });
 
     // old doc.ready
